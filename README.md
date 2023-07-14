@@ -1,6 +1,6 @@
 # pandas-challenge
 
-In this challenge, I am the Cheif Data Scientist for my city's school district, and I have been tasked with heping the mayor and the school board make strategic decisions on school budgets. School and standardized test data is analyzed through Pandas DataFrames and Jupyter Notebook. 
+In this challenge, I am the Chief Data Scientist for my city's school district, and I have been tasked with heping the mayor and the school board make strategic decisions on school budgets. School and standardized test data is analyzed through Pandas DataFrames and Jupyter Notebook. 
 
 ## The District Summary data includes:
   - Total number of unique schools 
